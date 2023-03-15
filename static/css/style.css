@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #80A2C8;
+}
+
+main {
+    background-color: #FBFBFB;
+    border-radius: 15px;
+}
+
+.components {
+    background-color: #374A7A;
+}
+
+#content {
+    margin: 25px;
+    min-height: 590px;
+}
+
+#history {
+    border-style: none solid none none;
+    border-width: 1px;
+    padding: 20px;
+    padding-left: 0px;
+}
+
+#summarization {
+    padding: 20px;
+}
+
+#url {
+    font-size: 10px;
+    color: white;
+}
+
+#text {
+    border-radius: 15px;
+    min-height: 300px;
+    padding: 20px;
+}
