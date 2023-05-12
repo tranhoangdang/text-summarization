@@ -1,1 +1,1 @@
-Craw data from VNExpress and summary.
+Author: Tran Hoang Dang
